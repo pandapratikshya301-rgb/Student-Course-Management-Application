@@ -1,8 +1,11 @@
-1. Install React Router
+--------------------------------
+Install React Router
 --------------------------------
 npm install react-router
---------------------------------
+
+---------------------------------
 Project Structure
+---------------------------------
 src/
 │
 ├── components/
