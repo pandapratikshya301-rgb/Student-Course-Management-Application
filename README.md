@@ -2,7 +2,7 @@
 
 A simple React-based Student Course Management Application developed using **React Router** and the **Context API**.
 
-## 📌 Project Description
+## Project Description
 
 This application allows users to navigate between different pages and view course details. It also uses the Context API to manage and share student information across components.
 
@@ -17,7 +17,7 @@ The application demonstrates important React concepts such as:
 
 ---
 
-## 🚀 Features
+## Features
 
 * Home page displaying shared student information
 * Courses page displaying available courses
@@ -29,7 +29,7 @@ The application demonstrates important React concepts such as:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * React
 * JavaScript
@@ -41,7 +41,7 @@ The application demonstrates important React concepts such as:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 src/
@@ -64,7 +64,7 @@ src/
 
 ---
 
-## ⚙️ Installation and Setup
+##  Installation and Setup
 
 ### 1. Clone the repository
 
@@ -100,9 +100,9 @@ The application will run on a local development server.
 
 ---
 
-## 📄 Pages
+##  Pages
 
-### 🏠 Home Page
+###  Home Page
 
 The Home page displays the shared student information using the Context API.
 
@@ -114,7 +114,7 @@ Example information:
 
 ---
 
-### 📚 Courses Page
+###  Courses Page
 
 The Courses page displays the available courses.
 
@@ -127,7 +127,7 @@ Each course contains a link to view its detailed information.
 
 ---
 
-### 🔄 Dynamic Course Routes
+###  Dynamic Course Routes
 
 The application uses dynamic routing with the following route:
 
@@ -146,13 +146,13 @@ The course ID is accessed using the `useParams()` hook from React Router.
 
 ---
 
-### ℹ️ About Page
+###  About Page
 
 The About page provides basic information about the Student Course Management Application.
 
 ---
 
-## 🧭 Application Routes
+##  Application Routes
 
 | Page     | Route       |
 | -------- | ----------- |
@@ -164,7 +164,7 @@ The About page provides basic information about the Student Course Management Ap
 
 ---
 
-## 🔗 React Router
+##  React Router
 
 React Router is used to navigate between pages without reloading the entire application.
 
@@ -184,7 +184,7 @@ Example dynamic route:
 
 ---
 
-## 🌐 Context API
+##  Context API
 
 The Context API is used to manage shared student information.
 
@@ -200,7 +200,7 @@ This avoids passing the same student data manually through multiple components.
 
 ---
 
-## 🧩 React Concepts Demonstrated
+##  React Concepts Demonstrated
 
 ### Functional Components
 
@@ -224,7 +224,7 @@ Components such as the navigation bar can be reused throughout the application.
 
 ---
 
-## 📸 Expected Functionality
+##  Expected Functionality
 
 Users can:
 
@@ -237,7 +237,7 @@ Users can:
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 After completing this project, you will understand:
 
@@ -251,7 +251,7 @@ After completing this project, you will understand:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Pratikshya Panda**
 
@@ -259,7 +259,7 @@ B.Tech – Computer Science and Engineering (Data Science)
 
 ---
 
-## 📜 Conclusion
+##  Conclusion
 
 This project is a simple implementation of a Student Course Management Application using React. It demonstrates how React Router can be used for navigation and dynamic routing, while the Context API helps manage and share student information across multiple components.
 
